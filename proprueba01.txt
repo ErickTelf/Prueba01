@@ -1,4 +1,11 @@
-inserto cosas en vhhhhh
-me gusto mucho aprender vi
-pero se me ha olvidado.
-tampoco es quhhhhh sea super super psuerp 
+Archivo editado en vi:
+
+Repaso de vi:
+d es para borrar
+:w es para guardar
+:q es para salir
+
+Un sitio interesante donde aprender linux , vi phyton y otras cosas interesantes:
+http://www.webminal.org/terminal
+
+/

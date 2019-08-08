@@ -1,0 +1,4 @@
+[user]
+	email = ricardo.martin@myvitale.com
+[alias]
+	lg = log --color --graph -7 --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit

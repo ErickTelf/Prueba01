@@ -1,9 +1,28 @@
+Specific (eSpecífico)
+Measurable (Medible)
+Achievable (Alcanzable)
+Relevant (Relevante)
+Time-bound (a Tiempo)
+
 Archivo editado en vi:
 
 Repaso de vi:
+para borrar:
+para guardar:
+para salir:
+para deshacer:
+
+d
+w
+q
+u
+
 d es para borrar
 :w es para guardar
 :q es para salir
+:u para deshacer
+
+
 
 Un sitio interesante donde aprender linux , vi phyton y otras cosas interesantes:
 http://www.webminal.org/terminal

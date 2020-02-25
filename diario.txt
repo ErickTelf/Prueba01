@@ -1,3 +1,13 @@
+
+¿Puedo subir dos ramas a la vez haciendo git push origing master develop?
+
+si, se puede
+
+¿Puedo bajar dos ramas a la vez haciendo git pull origing develop master?
+
+Pues no lo se... a ver si te acuerdas a probar en casa por que necesitas dos repos...
+
+
 cosas inportantes
 
 

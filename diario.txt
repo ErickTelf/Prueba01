@@ -1,3 +1,7 @@
+Pues aqui.. haciendo cambios en master, pero he dejado una tarea pendiente en ramarrara.
+
+
+
 git sthash .
 
 y git clear.

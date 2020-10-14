@@ -1,6 +1,10 @@
 Pues aqui.. haciendo cambios en master, pero he dejado una tarea pendiente en ramarrara.
 
 
+suponemos que hemos hecho un comit en esta rama
+es mas suponemos que hemos hecho dos comit buenos en esta rama de trabajo 
+y ahora me mandan otra cosa que hacer en otra rama.
+
 
 git sthash .
 

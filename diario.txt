@@ -1,5 +1,6 @@
 
 suponemos que hemos hecho un comit en esta rama
+es mas suponemos que hemos hecho dos comit buenos en esta rama de trabajo 
 
 
 git sthash .

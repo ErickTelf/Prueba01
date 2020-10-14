@@ -1,3 +1,7 @@
+
+suponemos que hemos hecho un comit en esta rama
+
+
 git sthash .
 
 y git clear.

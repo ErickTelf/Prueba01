@@ -23,6 +23,9 @@ Realistas.
 
 Archivo editado en vi:
 
+Eliminat todo hasta desde el cursor hasta el final de linea.
+d$
+
 cambiar el editor de git por defecto: git config --global core.editor "vim".
 Repaso de vi:
 para borrar:
@@ -47,3 +50,4 @@ Un sitio interesante donde aprender linux , vi phyton y otras cosas interesantes
 http://www.webminal.org/terminal
 
 /
+Espero no crear un conflicto. ... madre mia madre mia.

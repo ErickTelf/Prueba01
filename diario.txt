@@ -29,11 +29,8 @@ para borrar:
 para guardar:
 para salir:
 para deshacer:
+para borrar tres linas hacia abajo: d3j
 
-d
-w
-q
-u
 
 :set number -> para ver las nº de linea.
 :set number relativenumber -> para ver el numero relativo de lina.

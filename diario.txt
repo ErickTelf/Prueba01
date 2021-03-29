@@ -1,9 +1,5 @@
 cosas por mirar:
 
-1
-2
-3
-
 
 git sthash.
 git clear.

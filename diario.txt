@@ -23,6 +23,7 @@ Realistas.
 
 Archivo editado en vi:
 
+cambiar el editor de git por defecto: git config --global core.editor "vim".
 Repaso de vi:
 para borrar:
 para guardar:

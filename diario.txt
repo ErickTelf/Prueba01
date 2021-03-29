@@ -1,43 +1,54 @@
+cosas por mirar:
+
+git sthash.
+git clear.
 
 ¿Puedo subir dos ramas a la vez haciendo git push origing master develop?
-
 si, se puede
 
 ¿Puedo bajar dos ramas a la vez haciendo git pull origing develop master?
-
 Pues no lo se... a ver si te acuerdas a probar en casa por que necesitas dos repos...
 
 
-cosas inportantes
-
-
+Los objetivos deben ser: 
 Specific (eSpecífico)
 Measurable (Medible)
 Achievable (Alcanzable)
 Relevant (Relevante)
 Time-bound (a Tiempo)
 
+o en castellano y sin tonteras:
+Definidos.  
+Evaluables. 
+Realistas.  
+
+
 Archivo editado en vi:
 
-Repaso de vi:
+Eliminat todo hasta desde el cursor hasta el final de linea.
+d$
+
+cambiar el editor de git por defecto: git config --global core.editor "vim".
 para borrar:
+d3j -> corta 3 lineas hacia abajo
 para guardar:
 para salir:
 para deshacer:
 
-d
-w
-q
-u
+
+:set number -> para ver las nº de linea.
+:set number relativenumber -> para ver el numero relativo de lina.
+: nº de linea -> para ir a una linea concreta
+25j -> para vajar 25 linas hacia abajo.
+G-> para ir al final del documento
 
 d es para borrar
 :w es para guardar
 :q es para salir
 :u para deshacer
 
-
-
 Un sitio interesante donde aprender linux , vi phyton y otras cosas interesantes:
 http://www.webminal.org/terminal
 
 /
+Espero no crear un conflicto. ... madre mia madre mia.

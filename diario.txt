@@ -1,35 +1,25 @@
-Pues aqui.. haciendo cambios en master, pero he dejado una tarea pendiente en ramarrara.
-
-
-suponemos que hemos hecho un comit en esta rama
-es mas suponemos que hemos hecho dos comit buenos en esta rama de trabajo 
-y ahora me mandan otra cosa que hacer en otra rama.
-
-
 git sthash .
-
-y git clear.
+git clear.
 
 ¿Puedo subir dos ramas a la vez haciendo git push origing master develop?
-
 si, se puede
 
 ¿Puedo bajar dos ramas a la vez haciendo git pull origing develop master?
-
 Pues no lo se... a ver si te acuerdas a probar en casa por que necesitas dos repos...
 
-meter una descripcion de un comit
 
-no conflicto
-
-cosas inportantes
-
-
+Los objetivos deben ser: 
 Specific (eSpecífico)
 Measurable (Medible)
 Achievable (Alcanzable)
 Relevant (Relevante)
 Time-bound (a Tiempo)
+
+o en castellano y sin tonteras:
+Definidos.  
+Evaluables. 
+Realistas.  
+
 
 Archivo editado en vi:
 
@@ -44,12 +34,16 @@ w
 q
 u
 
+:set number -> para ver las nº de linea.
+:set number relativenumber -> para ver el numero relativo de lina.
+: nº de linea -> para ir a una linea concreta
+25j -> para vajar 25 linas hacia abajo.
+G-> para ir al final del documento
+
 d es para borrar
 :w es para guardar
 :q es para salir
 :u para deshacer
-
-
 
 Un sitio interesante donde aprender linux , vi phyton y otras cosas interesantes:
 http://www.webminal.org/terminal

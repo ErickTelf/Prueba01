@@ -34,9 +34,11 @@ w
 q
 u
 
-:number -> para ver las nº de linea.
-:number relativenumber -> para ver el numero relativo de lina.
-
+:set number -> para ver las nº de linea.
+:set number relativenumber -> para ver el numero relativo de lina.
+: nº de linea -> para ir a una linea concreta
+25j -> para vajar 25 linas hacia abajo.
+G-> para ir al final del documento
 
 d es para borrar
 :w es para guardar

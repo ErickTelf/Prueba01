@@ -1,3 +1,6 @@
-crear un comando que haga las operaciones rutinarias que hago con git
+---Objetivos-----
+
+crear un comando que haga las operaciones rutinarias que hago con git--> demasiado complejo. tal vez algo que atualice siempre master... o algo asi.
+
 porner fechas a los objetios
 definir objetios para ingles

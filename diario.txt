@@ -1,29 +1,18 @@
-Pues aqui.. haciendo cambios en master, pero he dejado una tarea pendiente en ramarrara.
 
-
-suponemos que hemos hecho un comit en esta rama
-es mas suponemos que hemos hecho dos comit buenos en esta rama de trabajo 
-y ahora me mandan otra cosa que hacer en otra rama.
 
 
 git sthash .
-
 y git clear.
 
 ¿Puedo subir dos ramas a la vez haciendo git push origing master develop?
-
 si, se puede
 
 ¿Puedo bajar dos ramas a la vez haciendo git pull origing develop master?
-
 Pues no lo se... a ver si te acuerdas a probar en casa por que necesitas dos repos...
 
 meter una descripcion de un comit
-
 no conflicto
-
 cosas inportantes
-
 
 Specific (eSpecífico)
 Measurable (Medible)
@@ -48,7 +37,6 @@ d es para borrar
 :w es para guardar
 :q es para salir
 :u para deshacer
-
 
 
 Un sitio interesante donde aprender linux , vi phyton y otras cosas interesantes:

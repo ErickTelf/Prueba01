@@ -27,12 +27,11 @@ Eliminat todo hasta desde el cursor hasta el final de linea.
 d$
 
 cambiar el editor de git por defecto: git config --global core.editor "vim".
-Repaso de vi:
 para borrar:
+d3j -> corta 3 lineas hacia abajo
 para guardar:
 para salir:
 para deshacer:
-para borrar tres linas hacia abajo: d3j
 
 
 :set number -> para ver las nº de linea.

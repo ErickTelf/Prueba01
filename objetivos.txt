@@ -1,5 +1,3 @@
 crear un comando que haga las operaciones rutinarias que hago con git
-crear un comando que corrija las capretas de icomun.css que siempre nos las dan mal y son un coñazo repetitivo cambiarlas
-buscar videos del tipo: que puedes hacer con github
 porner fechas a los objetios
 definir objetios para ingles

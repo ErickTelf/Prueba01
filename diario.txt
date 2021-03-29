@@ -1,4 +1,6 @@
-git sthash .
+cosas por mirar:
+
+git sthash.
 git clear.
 
 ¿Puedo subir dos ramas a la vez haciendo git push origing master develop?

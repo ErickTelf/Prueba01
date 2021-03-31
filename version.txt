@@ -1,4 +1,4 @@
 Intento que esto sea el punto de orgien del ejemplo del git flow
 version 1 -> solo para separar un poco de la madeja que arrastro.
 
-
+CONFLICTO MAYUSCULO:
